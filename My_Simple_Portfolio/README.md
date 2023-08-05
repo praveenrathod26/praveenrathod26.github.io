@@ -1,5 +1,3 @@
-# Simple Website Using Github Pages
-Make a simple HTML website and publish it using Github Pages.  
 View example: https://praveenrathod26.github.io/My_Simple_Portfolio/
 
 
